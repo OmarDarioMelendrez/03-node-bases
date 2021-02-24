@@ -1,0 +1,19 @@
+{
+  "name": "03-node-bases",
+  "version": "1.0.0",
+  "description": "Aplicación de linea de comandos para multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarDarioMelendrez/03-node-bases.git"
+  },
+  "author": "Omar Dario Melendrez <melendrezomar2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmarDarioMelendrez/03-node-bases/issues"
+  },
+  "homepage": "https://github.com/OmarDarioMelendrez/03-node-bases#readme"
+}
