@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OmarDarioMelendrez/03-node-bases/issues"
   },
-  "homepage": "https://github.com/OmarDarioMelendrez/03-node-bases#readme"
+  "homepage": "https://github.com/OmarDarioMelendrez/03-node-bases#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
