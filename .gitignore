@@ -52,7 +52,7 @@ typings/
 
 # TypeScript cache
 *.tsbuildinfo
-
+tablas
 # Optional npm cache directory
 .npm
 
