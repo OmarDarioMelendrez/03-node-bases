@@ -7,3 +7,14 @@
 * Exportamos y requerimos los mismos
 * requerimos modulos de node
 * instalamos dependencias
+* Utilizamos los pquetes de Yargs y Colors 
+
+Opciones:
+  -b, --base        es la base de la tabla de multiplicar   [número] [requerido]
+  -l, --limite      cantidad limite de multiplicacion       [número] [requerido]
+  -v, --visualizar  Muestra tabla en la consola
+                                         [booleano] [requerido] [defecto: false]
+      --help        Muestra ayuda                                     [booleano]
+      --version     Muestra número de versión                         [booleano]
+
+## Para ejecutar este código
